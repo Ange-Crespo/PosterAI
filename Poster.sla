@@ -335,23 +335,32 @@
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="951.496062992126" YPOS="460" OwnPage="0" ItemID="1978643122" PTYPE="2" WIDTH="540" HEIGHT="200" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="BRNN_dual.png" IRENDER="0" EMBEDDED="0" path="M0 0 L540 0 L540 200 L0 200 L0 0 Z" copath="M0 0 L540 0 L540 200 L0 200 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="1500" YPOS="460" OwnPage="0" ItemID="1978638274" PTYPE="4" WIDTH="280" HEIGHT="200" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280 0 L280 200 L0 200 L0 0 Z" copath="M0 0 L280 0 L280 200 L0 200 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="1233.49606299213" YPOS="451.834645669291" OwnPage="0" ItemID="1978643122" PTYPE="2" WIDTH="540" HEIGHT="200" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="BRNN_dual.png" IRENDER="0" EMBEDDED="0" path="M0 0 L540 0 L540 200 L0 200 L0 0 Z" copath="M0 0 L540 0 L540 200 L0 200 L0 0 Z" gXpos="282" gYpos="-8.16535433070866" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="952" YPOS="449" OwnPage="0" ItemID="1978638274" PTYPE="4" WIDTH="269.5" HEIGHT="288.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.5 0 L269.5 288.75 L0 288.75 L0 0 Z" copath="M0 0 L269.5 0 L269.5 288.75 L0 288.75 L0 0 Z" gXpos="-548" gYpos="-11" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1980288322" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT FONTSIZE="13" FEATURES="inherit shadowed allcaps" CH="Architecture:"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="13" FEATURES="inherit shadowed allcaps" CH="Architecture:"/>
                 <para/>
-                <ITEXT CH="By having a left and right accumulating map zipped altogether, the neural network can make predictions over a sequence with both past and future context."/>
-                <para ALIGN="4"/>
                 <para/>
-                <ITEXT FONTSIZE="13" FEATURES="inherit shadowed allcaps" CH="Principles:"/>
+                <ITEXT FONTSIZE="15" CH="By having a left and right accumulating map zipped altogether, the neural network can make predictions over a sequence with both past and future context"/>
+                <ITEXT CH="."/>
+                <para ALIGN="3" LINESPMode="0"/>
                 <para/>
-                <ITEXT CH="Split the neurons of a regular RNN into 2 directions; one is for positive direction (forward states) and the other one is for negative direction (backward states). "/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="13" FEATURES="inherit shadowed allcaps" CH="Principles:"/>
+                <para LINESPMode="1" LINESP="20"/>
+                <para LINESPMode="1" LINESP="20"/>
+                <ITEXT FONTSIZE="15" CH="Split the neurons of a regular RNN into 2 directions; one is for positive direction (forward states) and the other one is for negative direction (backward states). "/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="15" CH="The 2 outputs from 2 states are not connected to inputs of the opposite direction states"/>
+                <ITEXT CH="."/>
+                <para ALIGN="3"/>
                 <para ALIGN="4"/>
-                <ITEXT CH="The 2 outputs from 2 states are not connected to inputs of the opposite direction states."/>
-                <para ALIGN="4"/>
-                <para ALIGN="4"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="14" FEATURES="inherit shadowed" CH="TRAINING:"/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="15" CH="Training consists of 3 parts: Forward Pass, Backward Pass, and Weight Update, performed consecutively."/>
+                <para ALIGN="3"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="539.834645669291" YPOS="182.173228346457" OwnPage="0" ItemID="1980136178" PTYPE="4" WIDTH="803.165354330708" HEIGHT="60" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L803.165 0 L803.165 60 L0 60 L0 0 Z" copath="M0 0 L803.165 0 L803.165 60 L0 60 L0 0 Z" gXpos="-3" gYpos="8" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -367,16 +376,7 @@
         <PAGEOBJECT XPOS="819.212598425197" YPOS="243.622047244094" OwnPage="0" ItemID="1979556338" PTYPE="2" WIDTH="249.448818897638" HEIGHT="90.7086614173228" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.19488188976378" LOCALSCY="0.19488188976378" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../AI_Final_2017/PosterAI-master/reddit.png" IRENDER="0" EMBEDDED="0" path="M0 0 L249.449 0 L249.449 90.7087 L0 90.7087 L0 0 Z" copath="M0 0 L249.449 0 L249.449 90.7087 L0 90.7087 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="555.590551179524" YPOS="243.6220472" OwnPage="0" ItemID="1979551186" PTYPE="2" WIDTH="249.4488189" HEIGHT="90.70866142" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.194881889765625" LOCALSCY="0.194881889765625" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../AI_Final_2017/PosterAI-master/tensorflow.png" IRENDER="0" EMBEDDED="0" path="M0 0 L249.449 0 L249.449 90.7087 L0 90.7087 L0 0 Z" copath="M0 0 L249.449 0 L249.449 90.7087 L0 90.7087 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="1082.83464566772" YPOS="243.6220472" OwnPage="0" ItemID="1980296210" PTYPE="2" WIDTH="202.753825589107" HEIGHT="90.70866142" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.11409894518239" LOCALSCY="0.11409894518239" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../AI_Final_2017/PosterAI-master/geforce.png" IRENDER="0" EMBEDDED="0" path="M0 0 L202.754 0 L202.754 90.7087 L0 90.7087 L0 0 Z" copath="M0 0 L202.754 0 L202.754 90.7087 L0 90.7087 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="1280" YPOS="665.669291338583" OwnPage="0" ItemID="1980288322" PTYPE="4" WIDTH="500" HEIGHT="74.3307086614172" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L500 0 L500 74.3307 L0 74.3307 L0 0 Z" copath="M0 0 L500 0 L500 74.3307 L0 74.3307 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <ITEXT FONTSIZE="14" FEATURES="inherit shadowed" CH="TRAINING:"/>
-                <para/>
-                <para/>
-                <ITEXT CH="Training consists of 3 parts: Forward Pass, Backward Pass, and Weight Update, performed consecutively."/>
-                <para/>
-            </StoryText>
-        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1293.78" YPOS="642.669291338583" OwnPage="0" ItemID="1980288322" PTYPE="4" WIDTH="479.22" HEIGHT="74.3307086614172" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L479.22 0 L479.22 74.3307 L0 74.3307 L0 0 Z" copath="M0 0 L479.22 0 L479.22 74.3307 L0 74.3307 L0 0 Z" gXpos="13.78" gYpos="-23" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1978638274"/>
         <PAGEOBJECT XPOS="1291.65354330709" YPOS="728" OwnPage="0" ItemID="1980314498" PTYPE="4" WIDTH="160" HEIGHT="60" FRTYPE="0" CLIPEDIT="0" PWIDTH="4.25196850393701" PCOLOR="Yellow" SHADE="40" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160 0 L160 60 L0 60 L0 0 Z" copath="M0 0 L160 0 L160 60 L0 60 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
@@ -407,31 +407,31 @@
         <PAGEOBJECT XPOS="1291.49606299213" YPOS="797.165354330709" OwnPage="0" ItemID="1980438482" PTYPE="4" WIDTH="160" HEIGHT="149.834645669291" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160 0 L160 149.835 L0 149.835 L0 0 Z" copath="M0 0 L160 0 L160 149.835 L0 149.835 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Run input data through RNN"/>
+                <ITEXT FONTSIZE="15" CH="Run input data through RNN"/>
                 <para/>
                 <para/>
-                <ITEXT CH="(1) for both forward and backward states"/>
+                <ITEXT FONTSIZE="15" CH="(1) for both forward and backward states"/>
                 <para/>
-                <ITEXT CH="(2) for output neurons"/>
+                <ITEXT FONTSIZE="15" CH="(2) for output neurons"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="1455.9055118189" YPOS="797.1653543" OwnPage="0" ItemID="1980482642" PTYPE="4" WIDTH="160" HEIGHT="102.8346457" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160 0 L160 102.835 L0 102.835 L0 0 Z" copath="M0 0 L160 0 L160 102.835 L0 102.835 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="1455.9055118189" YPOS="797.1653543" OwnPage="0" ItemID="1980482642" PTYPE="4" WIDTH="160" HEIGHT="151.3346457" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160 0 L160 151.335 L0 151.335 L0 0 Z" copath="M0 0 L160 0 L160 151.335 L0 151.335 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Calculate the part of the objective function derivative"/>
+                <ITEXT FONTSIZE="15" CH="Calculate the part of the objective function derivative"/>
                 <para/>
                 <para/>
-                <ITEXT CH="(1) for output neurons"/>
+                <ITEXT FONTSIZE="15" CH="(1) for output neurons"/>
                 <para/>
-                <ITEXT CH="(2) for both forward and backward states"/>
+                <ITEXT FONTSIZE="15" CH="(2) for both forward and backward states"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="1620.3149606378" YPOS="797.1653543" OwnPage="0" ItemID="1981069362" PTYPE="4" WIDTH="160" HEIGHT="82.8346457" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160 0 L160 82.8346 L0 82.8346 L0 0 Z" copath="M0 0 L160 0 L160 82.8346 L0 82.8346 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="1620.3149606378" YPOS="797.1653543" OwnPage="0" ItemID="1981069362" PTYPE="4" WIDTH="160" HEIGHT="153.3346457" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160 0 L160 153.335 L0 153.335 L0 0 Z" copath="M0 0 L160 0 L160 153.335 L0 153.335 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="After each epoch, update all weights to ensure that the obtained solution minimizes errors"/>
+                <ITEXT FONTSIZE="15" CH="After each epoch, update all weights to ensure that the obtained solution minimizes errors"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>

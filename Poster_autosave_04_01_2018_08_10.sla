@@ -411,7 +411,7 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="124.638428432582" YPOS="1088" OwnPage="0" ItemID="2008176577" PTYPE="16" WIDTH="474" HEIGHT="406.015748031496" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" Rows="5" Columns="3" RowPositions="0 158.221 203.357 245.582 293.63" RowHeights="158.221 45.1366 42.2245 48.0486 111.385" ColumnPositions="0 141.25 304" ColumnWidths="141.25 162.75 169" CellAreas="" TableStyle="" path="M0 0 L474 0 L474 406.016 L0 406.016 L0 0 Z" copath="M0 0 L474 0 L474 406.016 L0 406.016 L0 0 Z" gXpos="124.638428432582" gYpos="1088" gWidth="0" gHeight="0" LAYER="0">
+        <PAGEOBJECT XPOS="124.638428432582" YPOS="1088" OwnPage="0" ItemID="2008176577" PTYPE="16" WIDTH="474" HEIGHT="418.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" Rows="5" Columns="3" RowPositions="0 163 209.5 253 302.5" RowHeights="163 46.5 43.5 49.5 114.75" ColumnPositions="0 141.25 304" ColumnWidths="141.25 162.75 169" CellAreas="" TableStyle="" path="M0 0 L474 0 L474 418.25 L0 418.25 L0 0 Z" copath="M0 0 L474 0 L474 418.25 L0 418.25 L0 0 Z" gXpos="124.638428432582" gYpos="1088" gWidth="0" gHeight="0" LAYER="0">
             <TableData Style="" FillColor="None" FillShade="100">
                 <TableBorderLeft>
                     <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -698,71 +698,71 @@
             </TableData>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="271.638428432582" YPOS="1094" OwnPage="0" ItemID="2008408161" PTYPE="2" WIDTH="153" HEIGHT="147" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.100393700787402" LOCALSCY="0.100393700787402" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="beauty-bot-blc.png" IRENDER="0" EMBEDDED="0" path="M0 0 L153 0 L153 147 L0 147 L0 0 Z" copath="M0 0 L153 0 L153 147 L0 147 L0 0 Z" gXpos="271.638428432582" gYpos="1094" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="432.138428432581" YPOS="1093" OwnPage="0" ItemID="2008412817" PTYPE="2" WIDTH="164.249502894191" HEIGHT="155.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.106652949245542" LOCALSCY="0.106652949245542" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="beauty-bot.png" IRENDER="0" EMBEDDED="0" path="M0 0 L164.25 0 L164.25 155.5 L0 155.5 L0 0 Z" copath="M0 0 L164.25 0 L164.25 155.5 L0 155.5 L0 0 Z" gXpos="432.138428432581" gYpos="1093" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="125" YPOS="1259.5" OwnPage="0" ItemID="2008308065" PTYPE="4" WIDTH="141" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L141 0 L141 22.25 L0 22.25 L0 0 Z" copath="M0 0 L141 0 L141 22.25 L0 22.25 L0 0 Z" gXpos="125" gYpos="1259.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="432.138428432581" YPOS="1093" OwnPage="0" ItemID="2008412817" PTYPE="2" WIDTH="157.500000000001" HEIGHT="148" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.101508916323731" LOCALSCY="0.101508916323731" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="beauty-bot.png" IRENDER="0" EMBEDDED="0" path="M0 0 L157.5 0 L157.5 148 L0 148 L0 0 Z" copath="M0 0 L157.5 0 L157.5 148 L0 148 L0 0 Z" gXpos="432.138428432581" gYpos="1093" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="125" YPOS="1263.5" OwnPage="0" ItemID="2008308065" PTYPE="4" WIDTH="141" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L141 0 L141 22.25 L0 22.25 L0 0 Z" copath="M0 0 L141 0 L141 22.25 L0 22.25 L0 0 Z" gXpos="125" gYpos="1263.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONTSIZE="20" CH="# of vocab"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="127.138428432582" YPOS="1304.5" OwnPage="0" ItemID="2008222945" PTYPE="4" WIDTH="139.5" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L139.5 0 L139.5 22.25 L0 22.25 L0 0 Z" copath="M0 0 L139.5 0 L139.5 22.25 L0 22.25 L0 0 Z" gXpos="127.138428432582" gYpos="1304.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="126.138428432582" YPOS="1320.5" OwnPage="0" ItemID="2008222945" PTYPE="4" WIDTH="139.5" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L139.5 0 L139.5 22.25 L0 22.25 L0 0 Z" copath="M0 0 L139.5 0 L139.5 22.25 L0 22.25 L0 0 Z" gXpos="126.138428432582" gYpos="1320.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONTSIZE="20" CH="# of step"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="124.138428432582" YPOS="1349.5" OwnPage="0" ItemID="2008285521" PTYPE="4" WIDTH="139.5" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L139.5 0 L139.5 22.25 L0 22.25 L0 0 Z" copath="M0 0 L139.5 0 L139.5 22.25 L0 22.25 L0 0 Z" gXpos="124.138428432582" gYpos="1349.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="124.138428432582" YPOS="1358.5" OwnPage="0" ItemID="2008285521" PTYPE="4" WIDTH="139.5" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L139.5 0 L139.5 22.25 L0 22.25 L0 0 Z" copath="M0 0 L139.5 0 L139.5 22.25 L0 22.25 L0 0 Z" gXpos="124.138428432582" gYpos="1358.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONTSIZE="20" CH="Batch Size"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="124.638428432582" YPOS="1414" OwnPage="0" ItemID="2011573121" PTYPE="4" WIDTH="139.771020386316" HEIGHT="49.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L139.771 0 L139.771 49.5 L0 49.5 L0 0 Z" copath="M0 0 L139.771 0 L139.771 49.5 L0 49.5 L0 0 Z" gXpos="124.638428432582" gYpos="1414" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="124.638428432582" YPOS="1433" OwnPage="0" ItemID="2011573121" PTYPE="4" WIDTH="136.5" HEIGHT="49.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L136.5 0 L136.5 49.5 L0 49.5 L0 0 Z" copath="M0 0 L136.5 0 L136.5 49.5 L0 49.5 L0 0 Z" gXpos="124.638428432582" gYpos="1433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONTSIZE="20" CH="Learning Rate"/>
                 <trail ALIGN="1" LINESP="20"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="268.138428432582" YPOS="1258.5" OwnPage="0" ItemID="2011620449" PTYPE="4" WIDTH="163" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L163 0 L163 22.25 L0 22.25 L0 0 Z" copath="M0 0 L163 0 L163 22.25 L0 22.25 L0 0 Z" gXpos="268.138428432582" gYpos="1258.5" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="266.138428432582" YPOS="1265.5" OwnPage="0" ItemID="2011620449" PTYPE="4" WIDTH="163" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L163 0 L163 22.25 L0 22.25 L0 0 Z" copath="M0 0 L163 0 L163 22.25 L0 22.25 L0 0 Z" gXpos="266.138428432582" gYpos="1265.5" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" FONTSIZE="20"/>
                 <ITEXT FONTSIZE="20" CH="15000"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="430.138428432582" YPOS="1257.5" OwnPage="0" ItemID="2011616545" PTYPE="4" WIDTH="165.999999999999" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L166 0 L166 22.25 L0 22.25 L0 0 Z" copath="M0 0 L166 0 L166 22.25 L0 22.25 L0 0 Z" gXpos="430.138428432582" gYpos="1257.5" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="431.138428432582" YPOS="1266.5" OwnPage="0" ItemID="2011616545" PTYPE="4" WIDTH="165.999999999999" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L166 0 L166 22.25 L0 22.25 L0 0 Z" copath="M0 0 L166 0 L166 22.25 L0 22.25 L0 0 Z" gXpos="431.138428432582" gYpos="1266.5" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" FONTSIZE="20"/>
                 <ITEXT FONTSIZE="20" CH="100'000"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="265.638428432582" YPOS="1305.5" OwnPage="0" ItemID="2011581985" PTYPE="4" WIDTH="160.5" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.5 0 L160.5 22.25 L0 22.25 L0 0 Z" copath="M0 0 L160.5 0 L160.5 22.25 L0 22.25 L0 0 Z" gXpos="265.638428432581" gYpos="1305.5" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="265.638428432582" YPOS="1311.5" OwnPage="0" ItemID="2011581985" PTYPE="4" WIDTH="160.5" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.5 0 L160.5 22.25 L0 22.25 L0 0 Z" copath="M0 0 L160.5 0 L160.5 22.25 L0 22.25 L0 0 Z" gXpos="265.638428432581" gYpos="1311.5" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" FONTSIZE="20"/>
                 <ITEXT FONTSIZE="20" CH="5'000'000"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="431.138428432582" YPOS="1304.5" OwnPage="0" ItemID="2011670785" PTYPE="4" WIDTH="164.999999999999" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L165 0 L165 22.25 L0 22.25 L0 0 Z" copath="M0 0 L165 0 L165 22.25 L0 22.25 L0 0 Z" gXpos="431.138428432582" gYpos="1304.5" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="429.138428432582" YPOS="1311.5" OwnPage="0" ItemID="2011670785" PTYPE="4" WIDTH="164.999999999999" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L165 0 L165 22.25 L0 22.25 L0 0 Z" copath="M0 0 L165 0 L165 22.25 L0 22.25 L0 0 Z" gXpos="429.138428432582" gYpos="1311.5" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" FONTSIZE="20"/>
                 <ITEXT FONTSIZE="20" CH="5'000'000"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="267.244094488189" YPOS="1349.5" OwnPage="0" ItemID="2011689697" PTYPE="4" WIDTH="159.643836838583" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.644 0 L159.644 22.25 L0 22.25 L0 0 Z" copath="M0 0 L159.644 0 L159.644 22.25 L0 22.25 L0 0 Z" gXpos="267.244094488189" gYpos="1349.5" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="280.138428432582" YPOS="1359.5" OwnPage="0" ItemID="2011689697" PTYPE="4" WIDTH="137.5" HEIGHT="22.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L137.5 0 L137.5 22.25 L0 22.25 L0 0 Z" copath="M0 0 L137.5 0 L137.5 22.25 L0 22.25 L0 0 Z" gXpos="280.138428432582" gYpos="1359.5" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" FONTSIZE="20"/>
                 <ITEXT FONTSIZE="20" CH="128"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="432.138428432582" YPOS="1348" OwnPage="0" ItemID="2011638401" PTYPE="4" WIDTH="160.499999999999" HEIGHT="27" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.5 0 L160.5 27 L0 27 L0 0 Z" copath="M0 0 L160.5 0 L160.5 27 L0 27 L0 0 Z" gXpos="432.138428432582" gYpos="1348" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="432.138428432582" YPOS="1358" OwnPage="0" ItemID="2011638401" PTYPE="4" WIDTH="160.499999999999" HEIGHT="27" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.5 0 L160.5 27 L0 27 L0 0 Z" copath="M0 0 L160.5 0 L160.5 27 L0 27 L0 0 Z" gXpos="432.138428432582" gYpos="1358" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" FONTSIZE="20"/>
                 <ITEXT FONTSIZE="20" CH="32"/>
@@ -774,22 +774,32 @@
             <PAGEOBJECT XPOS="431.388428432582" YPOS="1429.75" OwnPage="0" ItemID="2011745393" PTYPE="2" WIDTH="165.25" HEIGHT="69.9350393700788" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.31120527306968" LOCALSCY="0.31120527306968" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="26241596_10215523638514077_1113200212_n.jpg" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" path="M0 0 L165.25 0 L165.25 69.935 L0 69.935 L0 0 Z" copath="M0 0 L165.25 0 L165.25 69.935 L0 69.935 L0 0 Z" gXpos="0" gYpos="0" gWidth="165.25" gHeight="69.9350393700788" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
             <PAGEOBJECT XPOS="433.488188976378" YPOS="1435" OwnPage="0" ItemID="2011647025" PTYPE="7" WIDTH="157.400239456204" HEIGHT="51.75" FRTYPE="3" CLIPEDIT="1" PWIDTH="3.83527559055118" PCOLOR2="Red" PLINEART="1" TransBlend="3" path="M0 0 C0 0 44.1502 46.6772 157.4 51.75 " copath="M0 0 C0 0 44.1502 46.6772 157.4 51.75 L0 0 Z" gXpos="2.09976054379604" gYpos="5.25" gWidth="165.25" gHeight="69.9350393700788" LAYER="0"/>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="619.637931326772" YPOS="1411.81102362205" OwnPage="0" ItemID="2025663313" PTYPE="4" WIDTH="307.5" HEIGHT="81.1889763779525" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L307.5 0 L307.5 81.189 L0 81.189 L0 0 Z" copath="M0 0 L307.5 0 L307.5 81.189 L0 81.189 L0 0 Z" gXpos="619.637931326772" gYpos="1411.81102362205" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2016001345" BACKITEM="-1">
+        <PAGEOBJECT XPOS="619.637931326772" YPOS="1411.81102362205" OwnPage="0" ItemID="2025663313" PTYPE="4" WIDTH="307.5" HEIGHT="94.1889763779527" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L307.5 0 L307.5 94.189 L0 94.189 L0 0 Z" copath="M0 0 L307.5 0 L307.5 94.189 L0 94.189 L0 0 Z" gXpos="619.637931326772" gYpos="1411.81102362205" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2016001345" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONTSIZE="17" CH="We created 2 different bots. The  both use the same method but the different parameters change the result."/>
-                <para ALIGN="3" LINESP="17"/>
-                <para ALIGN="3" LINESP="17"/>
-                <ITEXT FONTSIZE="17" CH="-The vocab are important to have a rich interraction with the bot, but it will make an epoch longer. "/>
-                <para ALIGN="3" LINESP="17"/>
-                <ITEXT FONTSIZE="17" CH="-If the number of step is to low the maximum will not be reached, if it is too high we will use power for nothing. "/>
-                <para ALIGN="3" LINESP="17"/>
-                <ITEXT FONTSIZE="17" CH="-The batch size is the number of training examples in one forward/backward pass."/>
-                <para ALIGN="3" LINESP="17"/>
-                <ITEXT FONTSIZE="17" CH="-The learning rate could evolve during the training. For the first bot we made it manually, dividing by 2 this rate after a certain time of training. The second learning rate become smaller accross the time."/>
-                <trail ALIGN="3" LINESP="17"/>
+                <ITEXT CH="Several data change the behaviour of the bot created : "/>
+                <para/>
+                <para/>
+                <ITEXT CH="-Set of data used for test and learning (explained above)"/>
+                <para/>
+                <ITEXT CH="-Number of vocab (the number of word our bot knows)"/>
+                <para/>
+                <ITEXT CH="-Hyperparameters : "/>
+                <para/>
+                <tab/>
+                <ITEXT CH="-number of train step"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="-number of layer ( = 2 )"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="-batch size (the number of training examples in one forward/backward pass)"/>
+                <para/>
+                <tab/>
+                <ITEXT CH="-learning rate ( view as a function over the time)"/>
+                <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="123.887931326772" YPOS="1502" OwnPage="0" ItemID="2016001345" PTYPE="4" WIDTH="802.5" HEIGHT="151.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L802.5 0 L802.5 151.5 L0 151.5 L0 0 Z" copath="M0 0 L802.5 0 L802.5 151.5 L0 151.5 L0 0 Z" gXpos="123.887931326772" gYpos="1502" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="2025663313"/>
+        <PAGEOBJECT XPOS="123.887931326772" YPOS="1518.75" OwnPage="0" ItemID="2016001345" PTYPE="4" WIDTH="802.5" HEIGHT="127.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L802.5 0 L802.5 127.5 L0 127.5 L0 0 Z" copath="M0 0 L802.5 0 L802.5 127.5 L0 127.5 L0 0 Z" gXpos="123.887931326772" gYpos="1518.75" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="2025663313"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
